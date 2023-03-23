@@ -19,4 +19,5 @@ The objective is to display an array of cells, where the values are editable. Cl
 
 # Demo
 <video src='https://github.com/cdeck95/CellArrayReactBeginnerChallenge/blob/324e56071646721c2e72aa7ce86761507aaf7df1/public/demo.mp4' width=180/>
+![](https://github.com/cdeck95/CellArrayReactBeginnerChallenge/blob/324e56071646721c2e72aa7ce86761507aaf7df1/public/demo.mp4)
 
