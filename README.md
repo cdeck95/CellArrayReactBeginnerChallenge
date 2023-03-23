@@ -18,6 +18,6 @@ This was a for-fun project to test the ability to modify arrays using React/Next
 The objective is to display an array of cells, where the values are editable. Clicking between cells, or after the last cell, will also grant you the ability to add a cell to the list.
 
 # Demo
-<video src='https://github.com/cdeck95/CellArrayReactBeginnerChallenge/blob/324e56071646721c2e72aa7ce86761507aaf7df1/public/demo.mp4' width=180/>
-![](https://github.com/cdeck95/CellArrayReactBeginnerChallenge/blob/324e56071646721c2e72aa7ce86761507aaf7df1/public/demo.mp4)
+https://user-images.githubusercontent.com/14206982/227258159-aea8d727-5ff9-4d56-ba69-7e5bb2e63145.mp4
+
 
